@@ -1,3 +1,6 @@
+# Terraform
+alias tf=terraform
+
 # Kubernetes
 alias ktl=kubectl
 
@@ -48,3 +51,5 @@ alias vi=vim
 alias svi='sudo vi'
 
 alias ports='netstat tulanp'
+
+alias sshin='ssh-add ~/.ssh/id_rsa'
