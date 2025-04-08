@@ -20,6 +20,8 @@ alias pii="pip install"
 alias pii2="pip2 install"
 alias pii3="pip3 install"
 
+alias pie=pipenv
+
 alias won=workon
 alias allv=allvirtualenv
 alias cpv=cpvirtualenv
@@ -53,3 +55,4 @@ alias svi='sudo vi'
 alias ports='netstat tulanp'
 
 alias sshin='ssh-add ~/.ssh/id_rsa'
+
